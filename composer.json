@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Tb_Extratabs",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Organize product page information, display static blocks data in tabular form with easy to use interface.",
+    "authors": [
+    {
+        "name": "Rehan Mobin",
+        "email": "m.rehan.mobin@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
